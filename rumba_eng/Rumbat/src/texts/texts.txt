@@ -1,0 +1,12 @@
+Press r at any time during the training to return to the main menu.
+Hello trainee vacuum cleaner. In this screen you only have to vacuum. Clean all the slabs by vacuuming over them with the vacuum action
+there are very dirty tiles, you have to scrub them first. Press action to switch between vacuuming and scrubbing. Pay attention to the water levels
+Pee. to clean it, take a mop and wipe it down. once the mop has been used, throw it away in the wastebasket by wiping over it, as it will be useless.
+dog poop. Just vacuum it up. be careful if you have a mop on or mop it up because you will rub it all over. this penalizes. use a mop to clean it up in such a case.
+Here you can practice with all the elements available. experiment and test, and above all enjoy cleaning.
+code,graphics,idea: wanflan jara.      graphics: wanflan jara, anjuel.          cover: carol ruiz.   musics and fx: davidian murcian.              give it fran: na th an
+in honor of tripa, bandi and chica. they will always be in our hearts. wof wof
+the objective is to clean the entire floor or exceed the minimum level. the level ends when the time is up, the battery is empty or you clean the entire floor
+types of dirt: normal which must be vacuumed, very dirty: must be mopped up beforehand, pee: mop it up with a mop and poop: vacuum it up and then mop it. these penalize
+being poop and pee the ones that penalize the most. there are water and electricity recharging points distributed by some levels, use them if you are running out of levels.
+avoid colliding with the dogs because they make you lose control and lose energy faster. for every 3 perfect levels you get one life.

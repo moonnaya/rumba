@@ -1,0 +1,12 @@
+Pulsa r en cualquier momento del entrenamiento para regresar al menu principal
+Hola aspiradora aprendiz. En esta pantalla solo tienes que aspirar. Limpia todas las losas pasando por encima con la accion de aspirar
+hay losas muy sucias, tienes que fregarlas antes. Pulsa accion para cambiar entre aspirar y fregar. Atento a los niveles de agua
+Pipis. para limpiarlo coge una mopa y friega. una vez usada la mopa hay que tirarla en la papelera pasando por encima ya que sera inservible. 
+caca perruna. Solo hay que aspirarla. cuidado si tienes una mopa puesta o la friegas pues la refregaras por todas partes. esto penaliza.usa mopa para limpiarlo en tal caso
+Aquí podras practicar con todos los elementos disponibles. experimenta y prueba, y sobre todo disfrutan limpiando
+codigo,graficos,idea: wanflan jara.      graficos: wanflan jara, anjuel.          portada: carol ruiz.   musicas y fx: davidian murcian.              dale fran: na th an
+en honor a tripa, bandi y chica. siempre estaran en nuestros corazones. wof wof
+el objetivo es limpiar todo el suelo o superar el minimo marcado en el nivel. el nivel termina cuando finaliza el tiempo, la bateria o limpias todo
+tipos de suciedad: normal la cual hay que aspirar, muy sucia: hay que fregar previamente, pipi: fregarlo con mopa y caca: aspirarlo y luego fregarlo. estos penalizan
+siendo la caca y el pipi los que mas penalizan.existen puntos de recarga de agua y electricidad repartidos por algunos niveles, utilizalos si se te esta agotando los niveles
+evita chocar con los perros pues hacen que te descontroles y pierdas energia mas velozmente.por cada 3 niveles perfectos te regalan una vida
